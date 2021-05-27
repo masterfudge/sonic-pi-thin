@@ -1,0 +1,35 @@
+sample :ambi_lunar_land
+
+sleep 1
+play 20
+play 20
+play 48
+
+sleep 0.5
+play 36
+sample :ambi_drone
+
+sleep 1
+sample :vinyl_rewind
+
+sleep 1
+play 36
+play 36
+play 48
+
+sleep 1
+sample :bass_drop_c
+
+sleep 1
+sample :glitch_bass_g
+sample :ambi_lunar_land
+sample :ambi_drone
+sample :elec_filt_snare
+
+sleep 1
+sample :ambi_soft_buzz
+sample :ambi_swoosh
+sample :ambi_drone
+sample :ambi_glass_hum
+sample :ambi_glass_rub
+sample :ambi_haunted_hum
